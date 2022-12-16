@@ -1,0 +1,6 @@
+- household count in subdistricts
+-- headed by man
+-- headed by woman
+- top jobs in subdistricts
+- population density
+- education level
