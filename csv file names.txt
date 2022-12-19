@@ -1,0 +1,4 @@
+data-jumlah-kepadatan-penduduk-per-kelurahan-tahun-2020.csv
+data-jumlah-penduduk-usia-anak-0-18-tahun-di-provinsi-dki-jakarta-tahun-2020.csv
+data-jumlah-kepala-keluarga-menurut-pendidikan-jenis-kelamin-dan-wilayah-tahun-2020.csv
+data-jumlah-kepala-keluarga-menurut-pekerjaan-jenis-kelamin-dan-wilayah-tahun-2020.csv
